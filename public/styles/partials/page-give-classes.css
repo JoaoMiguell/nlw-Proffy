@@ -102,6 +102,7 @@
         display: grid;
         grid-template-columns: 2fr 1fr 1fr;
         column-gap: 1.6rem;
+        align-items: baseline;
     }
     #page-give-classes #schedule-items .select-block+.input-block,
     #page-give-classes #schedule-items .input-block+.input-block {
