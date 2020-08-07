@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoaoMiguell/nlw-Proffy/issues"
   },
-  "homepage": "https://github.com/JoaoMiguell/n#readme"
+  "homepage": "https://github.com/JoaoMiguell/n#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
